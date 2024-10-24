@@ -1,0 +1,19 @@
+#ima1 {width: 99%;}
+#ima2 {width: 99%;}
+header {border-color: blue;
+  border-style: double;
+border-width: 8px;
+margin-left: 25%;
+margin-right: 25%;}
+
+main{ border-color: aqua;
+border-style: groove;
+border-width: 8px;
+margin-left: 25%;
+margin-right: 25%;}
+
+footer {border-color: blueviolet;
+border-style: dotted;
+border-width: 8px;
+margin-left: 25%;
+margin-right: 25%;}
